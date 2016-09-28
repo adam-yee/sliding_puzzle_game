@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Puzzle Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_game">New Game</string>
+    <string name="title_score_board">Score: %d</string>
+    <string name="title_puzzle_solved">Puzzle Solved! +%d Points</string>
+    <string name="title_puzzle_start">Start!</string>
+    <string name="game_status_start">Press \'New Game\' to begin!</string>
+    <string name="game_status_playing">Solve the puzzle!</string>
+    <string name="game_status_won">Puzzle solved!</string>
+    <string name="image_select">Next Image: </string>
+    <string-array name="images_array">
+        <item>Duck</item>
+        <item>Pig</item>
+        <item>Doggy</item>
+    </string-array>
+    <string name="image_duck">Duck</string>
+    <string name="image_pig">Pig</string>
+    <string name="image_doggy">Doggy</string>
+    <string name="view_solution">View Solution</string>
+
+</resources>
